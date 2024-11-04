@@ -40,4 +40,4 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+Our project uses a dataset that gets the top songs from Spotify. It provides us the information that we want or need to determine whether or not we would like to offer them a contract under our label. We coded a program that would tell us the information of the top artists and songs, it would print that information in an organized manner. We did this by coding a way for us to traverse the 1d arrays and then print the respective information of each index.
