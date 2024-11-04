@@ -17,9 +17,9 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [role], <br> 
-> I want to [goal], <br> 
-> so that I can [benefit]. 
+> As a music label company , <br> 
+> I want to put more musicians  under our label, <br> 
+> so that I can make more money. 
 
 ## Dataset 
 
